@@ -1,0 +1,5 @@
+*.pkl
+*.json
+__pycache__
+myenv
+Insurance Predictor System API/myenv
